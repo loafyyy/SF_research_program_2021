@@ -4,4 +4,4 @@ I love data science.
 
 Jackie Peng
 Jatin Mehta
-Keval Oatel
+Keval Patel
