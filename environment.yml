@@ -1,0 +1,11 @@
+name: sf_research
+channels:
+  - defaults
+dependencies:
+  - spacy
+  - notebook
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - spacy-model-en_core_web_sm
+prefix: /Users/pengja/opt/anaconda3/envs/sf_research
